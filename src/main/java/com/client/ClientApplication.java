@@ -22,4 +22,10 @@ public class ClientApplication {
 		return "welcome home";
 		
 	}
+
+
+public String welcome3() {
+	return "welcome home";
+	
+}
 }
