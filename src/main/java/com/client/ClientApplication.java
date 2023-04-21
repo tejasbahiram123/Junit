@@ -22,10 +22,17 @@ public class ClientApplication {
 		return "welcome home";
 		
 	}
+<<<<<<< Updated upstream
 
 
 public String welcome3() {
 	return "welcome home";
 	
 }
+=======
+	public String welcome2() {
+		return "welcome home nashik";
+		
+	}
+>>>>>>> Stashed changes
 }
