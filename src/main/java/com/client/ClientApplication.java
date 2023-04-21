@@ -17,4 +17,9 @@ public class ClientApplication {
 		System.out.println("This result from client application"+sum2);
 	}
 
+	
+	public String welcome() {
+		return "welcome home";
+		
+	}
 }
